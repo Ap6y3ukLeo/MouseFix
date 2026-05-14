@@ -8,10 +8,24 @@
 [![Release](https://img.shields.io/badge/Release-v1.0-5B5BFF?style=flat&logo=github)](https://github.com/A6Leo/MouseFix/releases)
 
 ---
+## 🚀 Быстрый старт
 
-<p align="center">
-  <img src="assets/preview.png" alt="MouseFix Preview" width="420">
-</p>
+### Вариант 1: Скачать готовый EXE
+
+1. Скачайте [последний релиз](https://github.com/Ap6y3ukLeo/MouseFix/releases)
+2. Запустите `MouseFix.exe` **от имени администратора**
+3. Нажмите переключатель — готово!
+
+### Вариант 2: Запуск из исходников
+
+```bash
+git clone https://github.com/A6Leo/MouseFix.git
+cd MouseFix
+pip install customtkinter pystray Pillow
+python mouse_fix_gui.py
+```
+
+
 
 ## Проблема
 
@@ -57,22 +71,7 @@ MouseFix перехватывает события мыши на **систем�
 | 🔄 **Работа в фоне** | Сворачивается в системный трей, блокировка продолжается |
 | ⚡ **Минимальное потребление** | < 1% CPU, ~15 MB RAM |
 
-## 🚀 Быстрый старт
 
-### Вариант 1: Скачать готовый EXE
-
-1. Скачайте [последний релиз](https://github.com/A6Leo/MouseFix/releases)
-2. Запустите `MouseFix.exe` **от имени администратора**
-3. Нажмите переключатель — готово!
-
-### Вариант 2: Запуск из исходников
-
-```bash
-git clone https://github.com/A6Leo/MouseFix.git
-cd MouseFix
-pip install customtkinter pystray Pillow
-python mouse_fix_gui.py
-```
 
 ## 📖 Использование
 
