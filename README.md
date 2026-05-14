@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-5B5BFF?style=flat&logo=python)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-5B5BFF?style=flat&logo=windows)](https://microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-5B5BFF?style=flat)](LICENSE)
-[![Release](https://img.shields.io/badge/Release-v1.0-5B5BFF?style=flat&logo=github)](https://github.com/A6Leo/MouseFix/releases)
+[![Release](https://img.shields.io/badge/Release-v1.0-5B5BFF?style=flat&logo=github)](https://github.com/Ap6y3ukLeo/MouseFix/releases)
 
 ---
 ## 🚀 Быстрый старт
